@@ -67,7 +67,7 @@ def fmt_pos(pos):
     return f"({x},{y})"
 
 
-print("\nCat and Mouse\n")
+print("\ngitCat and Mouse\n")
 print(f"{'Cat':^10}{'Mouse':^10}{'Distance':^10}")
 print("-" * 30)
 
