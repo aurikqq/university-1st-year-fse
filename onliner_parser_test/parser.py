@@ -95,4 +95,5 @@ if __name__ == "__main__":
 
         print(f"№{i + 1}: {result["title"]}\n" + 
         f"Объем: {result["amount"]} ГБ, цена товара: {result["price"]} руб.\n" +
-        f"Цена за ГБ: {result["price_per_gb"]:.2f} руб.\n")
+        f"Цена за ГБ: {result["price_per_gb"]:.2f} руб.\n" +
+        f"Ссылка: {result["url"]}\n")
